@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 myfirstprogram-java/01 myfirstprogram-java.iml" filepath="$PROJECT_DIR$/01 myfirstprogram-java/01 myfirstprogram-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 HelloWorld/02 HelloWorld.iml" filepath="$PROJECT_DIR$/02 HelloWorld/02 HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 exercisms-Java/03 exercisms-Java.iml" filepath="$PROJECT_DIR$/03 exercisms-Java/03 exercisms-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 calculadora-notas-java/04 calculadora-notas-java.iml" filepath="$PROJECT_DIR$/04 calculadora-notas-java/04 calculadora-notas-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 empleados-java/05 empleados-java.iml" filepath="$PROJECT_DIR$/05 empleados-java/05 empleados-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edd-colas-java/edd-colas-java.iml" filepath="$PROJECT_DIR$/edd-colas-java/edd-colas-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edd-listasEnlazadas-java/edd-listasEnlazadas-java.iml" filepath="$PROJECT_DIR$/edd-listasEnlazadas-java/edd-listasEnlazadas-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-firstPractices.iml" filepath="$PROJECT_DIR$/.idea/java-firstPractices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo-InDriverDemo-java/poo-InDriverDemo-java.iml" filepath="$PROJECT_DIR$/poo-InDriverDemo-java/poo-InDriverDemo-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo-automovil-java/poo-automovil-java.iml" filepath="$PROJECT_DIR$/poo-automovil-java/poo-automovil-java.iml" />
+    </modules>
+  </component>
+</project>
